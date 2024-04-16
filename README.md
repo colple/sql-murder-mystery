@@ -32,7 +32,7 @@ Original text and other content for this project is released under Creative Comm
 
 ## Repository content
 1. Queries to solve the murder (made with Visual Code Studio): vsc_sql_murderer_mystery.ipynb.
-2. Query output (pdf): query_output.pdf.
+2. Query output (pdf): output_sql_murder_mystery.pdf.
 3. ERD (Entity Relationship Diagram) of the database: erd_sql_murder_mystery.png.
 4. Illustration for the game: illustration_sql_murder_mystery.png.
 
