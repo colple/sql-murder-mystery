@@ -31,7 +31,7 @@ Original code for this project is released under the MIT Licence.
 Original text and other content for this project is released under Creative Commons CC BY-SA 4.0.
 
 ## Repository content
-1. Queries to solve the murder (made with Visual Code Studio): queries.py.
+1. Queries to solve the murder (made with Visual Code Studio): vsc_sql_murderer_mystery.ipynb.
 2. Query output (pdf): query_output.pdf.
 3. ERD (Entity Relationship Diagram) of the database: erd_sql_murder_mystery.png.
 4. Illustration for the game: illustration_sql_murder_mystery.png.
